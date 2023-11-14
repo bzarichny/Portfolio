@@ -4,7 +4,7 @@ The following security audit was done for a fictional company, Botium Toys. The 
 
 ## Internal Security Audit Documents
 
-1.	**Document Name**: Botium Toys: Audit Scope and Goals
+1.	**Document Name**: Botium Toys: Audit Scope and Goals<br>
    **Explanation**: This document was given by Google and outlines the fictional company’s audit scope and goals.
 2.	**Document Name**: Botium Toys – Risk Assessment
    **Explanation**: This document was given by Google and outlines the fictional company’s current assets and risk.
