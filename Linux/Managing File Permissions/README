@@ -1,0 +1,3 @@
+This portfolio project activity was provided by the Google Cybersecurity certificate. The task is to examine existing permissions on the file system and determine if the permissions match the authorization that should be given. If they do not match, the permissions must be modified to authorize the appropriate users and remove any unauthorized access.
+
+The task will be done as follows: First, check the user and group permissions for all files in the projects directory. Next, check whether any files have incorrect permissions and change the permissions as needed. Finally, check the permissions of the /home/researcher2/projects/drafts directory and modify these permissions to remove any unauthorized access.
