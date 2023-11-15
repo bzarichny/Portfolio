@@ -1,4 +1,4 @@
-#Project Description
+# Project Description
 
 In this activity, a disgruntled baker has decided to publish the best-selling recipes of the website yummyrecipesforme.com for free. The baker executed a brute force attack to gain access to the web host. After they obtained the login credentials, they were able to change the website’s source code and embed a JavaScript function that prompted visitors to download and run a file upon visiting the website. After running the downloaded file, the customers are redirected to a fake version of the website where the seller’s recipes are now available for free. Several hours after the attack, multiple customers emailed yummyrecipesforme’s helpdesk. They complained that the company’s website had prompted them to download a file to update their browsers. The customers claimed that, after running the file, the address of the website changed, and their personal computers began running more slowly.
 
